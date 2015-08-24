@@ -1,4 +1,4 @@
 # Intro to Paket 
 
-See http://forki.github.io/PaketIntro
+See http://ctaggart.github.io/Paket.Intro
  

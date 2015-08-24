@@ -1,6 +1,6 @@
 - title : Paket
 - description : Introduction to Paket
-- author : Steffen Forkmann
+- author : Steffen Forkmann, Cameron Taggart
 - theme : night
 - transition : default
 
@@ -356,7 +356,7 @@
 
 ### Paket.VisualStudio
 
-- Alpha version of [VisualStudio plugin](https://github.com/hmemcpy/Paket.VisualStudio)
+- Alpha version of [VisualStudio plugin](https://github.com/fsprojects/Paket.VisualStudio)
 - Takes contributions
 
 
@@ -367,7 +367,5 @@
 
 ### Thank you
 
-- Take a look at https://github.com/fsprojects/Paket
-- We take contributions!
-- Slides are MIT licensed and made using [FsReveal](http://fsprojects.github.io/FsReveal/)
-- Send corrections to https://github.com/forki/PaketIntro
+- Take a look at http://fsprojects.github.io/Paket/
+- [Slides](https://github.com/ctaggart/Paket.Intro) are MIT licensed and made using [FsReveal](http://fsprojects.github.io/FsReveal/)
